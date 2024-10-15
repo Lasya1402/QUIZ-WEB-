@@ -1,1 +1,3 @@
-# QUIZ-WEB-
+# QUIZ-WEB APPLICATION
+In this project series, we will learn how to create a quiz application using Java Swing, developed in NetBeans with Java 21. The application provides a user-friendly graphical interface where participants can start the quiz after entering their name. The main page, or Home page, serves as the starting point, allowing users to navigate to the quiz, view the rules, or exit the application. This Java GUI project comes with complete source code, demonstrating key concepts such as event handling, GUI design, and data validation. It showcases how to create an interactive quiz system, from the home screen to the question-answer interface.
+
